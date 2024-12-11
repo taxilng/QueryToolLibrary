@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/xywlapi/*"
+  to = "https://api.xywlapi.cc/:splat"
+  status = 200
